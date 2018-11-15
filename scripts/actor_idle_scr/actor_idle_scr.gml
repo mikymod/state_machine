@@ -1,3 +1,5 @@
+sprite_index = actor_spr;
+
 var key_up = input_manager_obj.key_up;
 var key_down = input_manager_obj.key_down;
 var key_left = input_manager_obj.key_left;

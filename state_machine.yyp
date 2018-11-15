@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "db8f063a-1a8e-45ea-99ea-45fb0c6e238d",
+            "Value": {
+                "id": "02b7f1db-39e1-45f0-83ed-e8de5a5d47f7",
+                "resourcePath": "sprites\\actor_attack_spr\\actor_attack_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dc79e8c7-8562-4ec2-b908-bc5030990279",
             "Value": {
                 "id": "26736ca4-4dfc-4aa3-a88e-fc94da97db0e",

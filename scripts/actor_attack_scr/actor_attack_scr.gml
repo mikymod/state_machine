@@ -1,3 +1,1 @@
-show_debug_message("Attack");
-
-state_switch_previous();
+sprite_index = actor_attack_spr;
